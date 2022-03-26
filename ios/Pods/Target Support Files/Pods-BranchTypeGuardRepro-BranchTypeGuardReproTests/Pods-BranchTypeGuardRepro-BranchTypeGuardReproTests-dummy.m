@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_BranchTypeGuardRepro_BranchTypeGuardReproTests : NSObject
+@end
+@implementation PodsDummy_Pods_BranchTypeGuardRepro_BranchTypeGuardReproTests
+@end

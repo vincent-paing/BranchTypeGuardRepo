@@ -1,0 +1,6 @@
+module Pods_BranchTypeGuardRepro_BranchTypeGuardReproTests {
+  umbrella header "Pods-BranchTypeGuardRepro-BranchTypeGuardReproTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
